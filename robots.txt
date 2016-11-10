@@ -1,5 +1,3 @@
 User-Agent: *
-Disallow: /stylesheets
-Disallow: /assets
 Disallow: /.git
-Allow: /index
+
